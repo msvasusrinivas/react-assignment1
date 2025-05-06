@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  row-gap: 20PX;
+  background-color: rgb(146, 233, 146);
+  display: inline;
+
+}
+
+.div1 {
+
+  display: flex;
+  background-color: rgb(43, 206, 206);
+  align-items: center;
+  justify-items: center;
+}
